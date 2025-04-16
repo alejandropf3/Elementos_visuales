@@ -1,0 +1,9 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.card{
+    border: 5px solid;
+    background: green;
+}
