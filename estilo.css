@@ -102,9 +102,10 @@ body{
 #gradiente_radial{
     background-image:radial-gradient(orange,green);
 }
-
+/*En este caso agregamos sombra al texto*/
 #estilo_texto{
     text-transform: uppercase;
+    letter-spacing: 0.5em;
     text-shadow: rgb(224, 139, 153) -1px 1px 2px;
 }
 
